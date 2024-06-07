@@ -13,7 +13,7 @@ The paper related to this project is published and can be accessed via the follo
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/crowd-density-estimation.git
+    git clone https://github.com/Manvendra-S/crowd-density-estimation.git
     cd crowd-density-estimation
     ```
 
